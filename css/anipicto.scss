@@ -1,0 +1,47 @@
+/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}td:not([align]),th:not([align]){text-align:left}
+
+body {
+    background-color: khaki;
+}
+
+#biljka { 
+    transition: 370ms;
+    * {
+        stroke-width: 5;
+        stroke: black;
+        fill: none;
+        transition: 370ms;
+    }
+    circle {
+        fill: aliceblue;
+    }
+    .list1 {
+     fill: green;
+     d: path("M112.359 32.618c1.667,10.583 15.708,18.297 15.983,28.556 0.194,7.71 -5.428,15.539 -13.077,18.212 -27.432,5.446 -21.353,-31.016 -2.906,-46.768z");
+     transition: 370ms;
+    }
+    .tlo {
+        d: path("M183.822 213.918c-16.859,11.175 -37.081,17.683 -58.822,17.683 -23.252,0 -44.765,-7.444 -62.286,-20.079 12.373,-9.316 20.047,-10.742 26.239,-10.4 15.068,0.833 28.7,10.431 40.079,12.249 15.538,2.482 28.739,-10.136 54.79,0.547z");
+        fill: brown;
+    }
+    .stablo {
+        d: path("M136.967 213.539c13.96,-46.812 1.069,-90.839 -21.702,-134.153");
+    } 
+}
+
+
+#biljka:hover  {
+    .stablo {
+        d: path("M136.967 213.539c13.96,-46.812 2.131,-88.805 -20.64,-132.119");
+    }
+    .list1 {
+        transition: 370ms;
+        d: path("M130.48 26.464c-5.497,22.795 7.816,47.882 -20.413,57.748 -33.666,-2.988 -7.324,-54.565 20.413,-57.748z");
+    }
+    .list2 {
+        d: path("");
+    } 
+    .list3 {
+        d: path("");
+    }               
+}

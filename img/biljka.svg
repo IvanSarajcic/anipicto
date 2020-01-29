@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<?xml-stylesheet href="biljka.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="250px" height="250px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 250 250"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="biljka">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle id="krug" class="fil0 str0" cx="125" cy="125" r="106.602"/>
+  <path id="tlo" class="fil0 str0" d="M183.822 213.918c-16.859,11.175 -37.081,17.683 -58.822,17.683 -23.252,0 -44.765,-7.444 -62.286,-20.079 12.373,-9.316 20.047,-10.742 26.239,-10.4 15.068,0.833 28.7,10.431 40.079,12.249 15.538,2.482 28.739,-10.136 54.79,0.547z"/>
+  <path id="stablo" class="fil0 str0" d="M136.967 213.539c13.96,-46.812 1.069,-90.839 -21.702,-134.153"/>
+  <path id="grancica-1" class="fil0 str0" d="M142.692 175.425c0.406,-10.913 -7.511,-17.387 -20.216,-21.307"/>
+  <path id="grancica-3" class="fil0 str0" d="M141.02 152.057c11.51,-8.538 12.408,-21.781 11.471,-32.99"/>
+  <path id="list-2" class="fil0 str0" d="M112.359 32.618c1.667,10.583 15.708,18.297 15.983,28.556 0.194,7.71 -5.428,15.539 -13.077,18.212 -27.432,5.446 -21.353,-31.016 -2.906,-46.768z"/>
+  <path id="list-1" class="fil0 str0" d="M82.683 150.466c-16.025,-22.762 -10.452,-46.881 -6.437,-57.94 8.93,14.782 38.868,13.994 49.24,28.645 6.864,9.73 5.014,23.092 -0.946,30.7 -10.504,13.403 -31.618,13.161 -41.857,-1.405z"/>
+  <path id="list-3" class="fil0 str0" d="M142.968 92.666c4.942,-13.687 28.073,-18.936 32.934,-32.465 5.637,8.699 14.481,27.028 6.877,48.249 -4.624,12.924 -19.21,17.465 -30.288,10.617 -9.014,-5.569 -13.019,-16.674 -9.523,-26.401z"/>
+ </g>
+</svg>
